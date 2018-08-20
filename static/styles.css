@@ -1,0 +1,13 @@
+#main_container {
+    margin-top: 1%;
+}
+
+#register_container {
+    width: 50%;
+}
+
+#login_container {
+    width: 30%;
+    left: 35%;
+    position: relative;
+}
